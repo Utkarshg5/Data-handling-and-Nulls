@@ -1,0 +1,6 @@
+CustomerID,FirstName,LastName,Email,Phone,City
+1,John,Doe,john.doe@example.com,1234567890,Mumbai
+2,Jane,Smith,,9876543210,Delhi
+3,Amit,Verma,amit.verma@example.com,,Pune
+4,Sara,,sara.k@example.com,9988776655,
+5,Ravi,Patel,,,
