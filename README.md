@@ -1,4 +1,4 @@
-# Task 2: Data Insertion and Handling Nulls
+# Data Insertion and Handling Nulls
 
 This project demonstrates basic SQL operations using a `Customers` table. It covers:
 
